@@ -1,17 +1,17 @@
-# Calculator
+# 🧮 Calculator
 
-This project is a simple web-based calculator designed for basic arithmetic operations. It provides a user-friendly interface to perform calculations using standard operators.
+Welcome to the **Calculator** project—a sleek, web-based tool designed for effortless arithmetic operations. With a clean and intuitive interface, this calculator is perfect for performing basic calculations quickly and efficiently.
 
-## Features
+## 🌟 Features
 
-- **Basic Operations**: Supports addition, subtraction, multiplication, and division.
-- **Display**: Shows the current input and result.
-- **Clear and Delete**: Includes buttons to clear the entire input or delete the last character.
-- **Decimal Support**: Allows the inclusion of decimal points in calculations.
+- **🔢 Basic Arithmetic**: Perform addition, subtraction, multiplication, and division with ease.
+- **📊 Display**: Keep track of your current input and see results instantly.
+- **🗑️ Clear and Delete**: Use dedicated buttons to clear the entire input or remove the last character.
+- **🔸 Decimal Support**: Incorporate decimal points for precise calculations.
 
-## Getting Started
+## 🚀 Getting Started
 
-To use or view the calculator, follow these steps:
+Follow these steps to get the calculator up and running on your local machine:
 
 1. **Clone the Repository**:
 
@@ -20,34 +20,38 @@ To use or view the calculator, follow these steps:
    cd calculator
    ```
 
-2. **Open the HTML File**:
-   Open the `index.html` file in your web browser to start using the calculator.
+2. **Open the Application**:
+   Launch the `index.html` file in your web browser to start using the calculator.
 
-3. **Customize**:
-   - Modify the `style.css` file to change the appearance of the calculator to suit your design preferences.
+3. **Customization**:
+   - **Styling**: Edit the `style.css` file to adjust the look and feel of the calculator to match your personal or project design preferences.
 
-## Dependencies
+## 🔧 Dependencies
 
-- **No external dependencies**: This project relies solely on HTML and CSS.
+- **None**: This project utilizes pure HTML and CSS with no external dependencies.
 
-## Contribution
+## 🤝 Contribution
 
-If you wish to contribute to this project:
+Contributions are always welcome! Here’s how you can contribute:
 
-1. **Fork the Repository**: Create a copy of the repository on your own GitHub account.
-2. **Create a Feature Branch**: Create a new branch for your changes.
-3. **Commit Changes**: Add and commit your modifications.
-4. **Push to the Branch**: Push your changes to your forked repository.
-5. **Create a Pull Request**: Submit a pull request to propose your changes.
+1. **Fork the Repository**: Make a personal copy of the repository on GitHub.
+2. **Create a Feature Branch**: Develop your new features or fixes in a dedicated branch.
+3. **Commit Changes**: Add and commit your modifications with clear messages.
+4. **Push to Your Fork**: Push your changes to your forked repository.
+5. **Open a Pull Request**: Submit a pull request to propose your enhancements.
 
-## License
+## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
+This project is open-source and licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in accordance with the license terms.
 
-## Contact
+## 📬 Contact
 
-For any questions or feedback, please reach out via the contact information provided in the repository.
+For questions, feedback, or suggestions, feel free to reach out via the contact information provided in the repository.
 
----
+## 📸 Screenshots
 
-Feel free to adjust this README file to better fit your project's specific details and requirements.
+Here’s a glimpse of the calculator in action:
+
+![Calculator Interface](https://github.com/shamshubham/Calculator/blob/master/screenShots/Capture.JPG)
+![Calculator View 1](https://github.com/shamshubham/Calculator/blob/master/screenShots/Capture1.JPG)
+![Calculator View 2](https://github.com/shamshubham/Calculator/blob/master/screenShots/Capture2.JPG)
